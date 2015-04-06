@@ -3,9 +3,12 @@
 
 ## Support Hints &amp; Examples
 
-This is a small collection of hints and examples to show how ECMAScript 6
+This is a small collection of hints and examples to show how
+[ECMAScript 6](http://es6-features.org/)
 can be used today in practice in various scenarios, thanks to the awesome
-[Babel](http://babeljs.io/) transpiling toolkit.
+[Babel](http://babeljs.io/) transpiling toolkit. If you want to find
+out more about ECMAScript 6 check out our companion project
+[es6-features.org]](http://es6-features.org/), too.
 
 ### Code Examples
 
