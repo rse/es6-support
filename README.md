@@ -8,7 +8,7 @@ This is a small collection of hints and examples to show how
 can be used today in practice in various scenarios, thanks to the awesome
 [Babel](http://babeljs.io/) transpiling toolkit. If you want to find
 out more about ECMAScript 6 check out our companion project
-[es6-features.org]](http://es6-features.org/), too.
+[es6-features.org](http://es6-features.org/), too.
 
 ### Code Examples
 
