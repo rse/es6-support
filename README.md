@@ -73,10 +73,10 @@ The following are code examples how to use ECMAScript 6 for your own code:
 The following are hints for using ECMAScript 6 with various tools:
 
 - [WebStorm](https://www.jetbrains.com/webstorm/):
-  WebStorm since version 10 supports ECMAScript 6 out-of-the-box.
+  WebStorm IDE version 10 supports ECMAScript 6 out-of-the-box.
 
 - [Sublime Text](http://www.sublimetext.com/):
-  Sublime Text version 3 supports ECMAScript 6 with the
+  Sublime Text editor version 3 supports ECMAScript 6 with the
   [PackageControl](https://packagecontrol.io/)-installable plugins
   [JavaScriptNext](https://packagecontrol.io/packages/JavaScriptNext%20-%20ES6%20Syntax)
   plus the [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) &amp;
@@ -84,9 +84,21 @@ The following are hints for using ECMAScript 6 with various tools:
   plugin combination.
 
 - [Vim](http://www.vim.org/):
-  Vim 7 supports ECMAScript 6 with the
+  Vim editor version 7 supports ECMAScript 6 with the
   [Vundle](https://github.com/gmarik/Vundle.vim)-installable plugins
   [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) and
   the combination of plugin [Syntastic](https://github.com/scrooloose/syntastic)
   and an external [JSHint](http://jshint.com/).
+
+- [Atom](http://atom.io/):
+  Atom editor supports ECMAScript 6 with the
+  [language-javascript-better](https://atom.io/packages/language-javascript-better)
+  extension plus the
+  combination of [linter](https://atom.io/packages/linter)
+  and [linter-jshint](https://atom.io/packages/linter-jshint) extensions.
+
+- [Brackets](http://brackets.io/):
+  Brackets editor supports ECMAScript 6 with the
+  [brackets-jshint](https://github.com/cfjedimaster/brackets-jshint)
+  extension.
 
