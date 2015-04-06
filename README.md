@@ -49,7 +49,22 @@ can be used today in practice in various scenarios.
   subsequent `require` calls on-the-fly transpiles all ES6 to ES5 code.
   This can be used for production scenarios.
 
-- lib-node-browser-buildproc
+- [lib-node-browser-buildproc](lib-node-browser-buildproc])<br/>
+  This shows a library for use within [Node.js](http://nodejs.org/)/[IO.js](http://iojs.org)-based server
+  environments or within browser environments.
+  It is based on a [Grunt](http://gruntjs.com/)-based build process.
+  The key points are: [Grunt](http://gruntjs.com/) uses
+  [JSHint](http://jshint.com/) (with its `esnext` option enabled) and
+  [ESLint](http://eslint.org/) (with the [Babel-ESLint](https://github.com/babel/babel-eslint) plugin activated)
+  to lint all ES6 sources. Then it uses
+  [Browserify](http://browserify.org/), which itself uses the
+  Browserify plugin [Babelify](https://github.com/babel/babelify),
+  to transpile all ES5 library code to ES6 with
+  [Babel](http://babeljs.io/). Additionally, it uses the plain
+  [Grunt-Babel]([https://www.npmjs.com/package/grunt-babel) plugin to
+  transpile [Mocha](http://mochajs.org/)-based ES5 test code to ES6
+  with [Babel](http://babeljs.io/). This is recommended for production
+  scenarios.
 
 ### Tools
 
