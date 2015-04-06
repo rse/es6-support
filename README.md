@@ -4,7 +4,8 @@
 ## Support Hints &amp; Examples
 
 This is a small collection of hints and examples to show how ECMAScript 6
-can be used today in practice in various scenarios.
+can be used today in practice in various scenarios, thanks to the awesome
+[Babel](http://babeljs.io/) transpiling toolkit.
 
 ### Code Examples
 
