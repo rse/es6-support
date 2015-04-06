@@ -6,7 +6,9 @@
 This is a small collection of hints and examples to show how ECMAScript 6
 can be used today in practice in various scenarios.
 
-### Examples
+### Code Examples
+
+The following are code examples how to use ECMAScript 6 for your own code:
 
 - [app-browser-onthefly](./app-browser-onthefly/)<br/>
   This shows a browser application, using on-the-fly transpiling.
@@ -66,9 +68,25 @@ can be used today in practice in various scenarios.
   with [Babel](http://babeljs.io/). This is recommended for production
   scenarios.
 
-### Tools
+### Tool Support
 
-- WebStorm
-- Sublime Text
-- Vim
+The following are hints for using ECMAScript 6 with various tools:
+
+- [WebStorm](https://www.jetbrains.com/webstorm/)<br/>
+  WebStorm since version 10 supports ECMAScript 6 out-of-the-box.
+
+- [Sublime Text](http://www.sublimetext.com/)<br/>
+  Sublime Text version 3 supports ECMAScript 6 with the
+  [PackageControl](https://packagecontrol.io/)-installable plugins
+  [JavaScriptNext](https://packagecontrol.io/packages/JavaScriptNext%20-%20ES6%20Syntax)
+  plus the [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) &amp;
+  [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
+  plugin combination.
+
+- [Vim](http://www.vim.org/)<br/>
+  Vim supports ECMAScript 6 with the
+  [Vundle](https://github.com/gmarik/Vundle.vim)-installable plugins
+  [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) and
+  the combination of plugin [Syntastic](https://github.com/scrooloose/syntastic)
+  and an external [JSHint](http://jshint.com/).
 
