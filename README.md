@@ -84,7 +84,7 @@ The following are hints for using ECMAScript 6 with various tools:
   plugin combination.
 
 - [Vim](http://www.vim.org/):
-  Vim supports ECMAScript 6 with the
+  Vim 7 supports ECMAScript 6 with the
   [Vundle](https://github.com/gmarik/Vundle.vim)-installable plugins
   [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) and
   the combination of plugin [Syntastic](https://github.com/scrooloose/syntastic)
