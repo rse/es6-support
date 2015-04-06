@@ -8,12 +8,12 @@ can be used today in practice in various scenarios.
 
 ### Examples
 
-- (app-browser-buildproc)[./app-browser-buildproc/]
+- [app-browser-buildproc](./app-browser-buildproc/)
   This shows a browser application, based on a Grunt-based build process.
-  The key points are: (Grunt)[http://gruntjs.com/] uses
-  (Browserify)[http://browserify.org/] which itself uses the Browserify
-  plugin (babelify)[https://github.com/babel/babelify] to transpile ES5
-  to ES6 with (Babel)[http://babeljs.io/].
+  The key points are: [Grunt](http://gruntjs.com/) uses
+  [Browserify](http://browserify.org/) which itself uses the Browserify
+  plugin [Babelify](https://github.com/babel/babelify) to transpile ES5
+  to ES6 with [Babel](http://babeljs.io/).
 
 - app-browser-onthefly
 
