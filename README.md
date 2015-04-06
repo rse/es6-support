@@ -72,10 +72,10 @@ The following are code examples how to use ECMAScript 6 for your own code:
 
 The following are hints for using ECMAScript 6 with various tools:
 
-- [WebStorm](https://www.jetbrains.com/webstorm/)<br/>
+- [WebStorm](https://www.jetbrains.com/webstorm/):
   WebStorm since version 10 supports ECMAScript 6 out-of-the-box.
 
-- [Sublime Text](http://www.sublimetext.com/)<br/>
+- [Sublime Text](http://www.sublimetext.com/):
   Sublime Text version 3 supports ECMAScript 6 with the
   [PackageControl](https://packagecontrol.io/)-installable plugins
   [JavaScriptNext](https://packagecontrol.io/packages/JavaScriptNext%20-%20ES6%20Syntax)
@@ -83,7 +83,7 @@ The following are hints for using ECMAScript 6 with various tools:
   [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
   plugin combination.
 
-- [Vim](http://www.vim.org/)<br/>
+- [Vim](http://www.vim.org/):
   Vim supports ECMAScript 6 with the
   [Vundle](https://github.com/gmarik/Vundle.vim)-installable plugins
   [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) and
