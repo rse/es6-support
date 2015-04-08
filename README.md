@@ -55,7 +55,7 @@ The following are code examples how to use ECMAScript 6 for your own code:
   subsequent `require` calls on-the-fly transpiles all ES6 to ES5 code.
   This can be used for production scenarios.
 
-- [lib-node-browser-buildproc](lib-node-browser-buildproc])<br/>
+- [lib-node-browser-buildproc](lib-node-browser-buildproc)<br/>
   This shows a library for use within [Node.js](http://nodejs.org/)/[IO.js](http://iojs.org)-based server
   environments or within browser environments.
   It is based on a [Grunt](http://gruntjs.com/)-based build process.
